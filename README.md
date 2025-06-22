@@ -28,13 +28,12 @@ Este projeto tem como objetivo criar uma ferramenta no **Excel** para auxiliar n
 
 ## 📷 Imagem da Planilha
 
-| Menu de Navegação | 
-|-------------------|
-| ![Menu](menu-navegacao.PNG) |
+ **Menu de Navegação** 
+  ![Menu](menu-navegacao.PNG)
 
-| Organização da Planilha |
-| ![Planilha](planilha-dados.PNG) | 
-| ![Planilha](planilha-dados2.PNG) |
+ **Organização da Planilha** 
+  ![Planilha](planilha-dados.PNG)
+  ![Planilha](planilha-dados2.PNG)
 
 ---
 
