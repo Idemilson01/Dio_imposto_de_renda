@@ -26,11 +26,11 @@ Este projeto tem como objetivo criar uma ferramenta no **Excel** para auxiliar n
 
 ---
 
-## 📷 Capturas de Tela
+## 📷 Imagem da Planilha
 
-| Menu de Navegação | Validação de Dados | Organização da Planilha |
+| Menu de Navegação | Organização da Planilha |
 |-------------------|---------------------|--------------------------|
-| ![Menu](./images/menu-navegacao.png) | ![Validação](./images/validacoes.png) | ![Planilha](./images/planilha-dados.png) |
+| ![Menu](./imagem/menu-navegacao.png) | ![Planilha](./imagem/planilha-dados.png) | ![Planilha](./imagem/planilha-dados2.png) |
 
 ---
 
