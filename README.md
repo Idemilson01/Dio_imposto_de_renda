@@ -59,7 +59,7 @@ Durante a execução deste projeto, aprofundei conhecimentos em:
 - Validação de dados (listas suspensas, CPF, datas)
 - VBA para navegação entre abas
 - Criação de dashboards no Excel
-- Documentação técnica com Markdown
+
 
 ---
 
