@@ -30,7 +30,7 @@ Este projeto tem como objetivo criar uma ferramenta no **Excel** para auxiliar n
 
 | Menu de Navegação | Organização da Planilha |
 |-------------------|---------------------|--------------------------|
-| ![Menu](./imagem/menu-navegacao.png) | ![Planilha](./imagem/planilha-dados.png) | ![Planilha](./imagem/planilha-dados2.png) |
+| ![Menu](menu-navegacao.png) | ![Planilha](planilha-dados.png) | ![Planilha](planilha-dados2.png) |
 
 ---
 
